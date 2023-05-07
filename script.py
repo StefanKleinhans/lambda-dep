@@ -2,8 +2,7 @@
 import psycopg2
 import psycopg2.extras
 import os
-ls
-lsimport json
+import json
 
 
 def lambda_handler(event, context):
