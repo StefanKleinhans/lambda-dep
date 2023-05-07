@@ -4,6 +4,8 @@ import psycopg2.extras
 import os
 import json
 
+# Hello
+
 
 def lambda_handler(event, context):
     db_name = os.environ['DB_NAME']
